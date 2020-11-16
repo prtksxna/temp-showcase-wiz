@@ -1,0 +1,15 @@
+{
+  "name": "temp-wiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wink-eng-lite-web-model": "file:../wink-eng-lite-web-model-1.0.0.tgz",
+    "wink-nlp": "^1.1.0"
+  }
+}
