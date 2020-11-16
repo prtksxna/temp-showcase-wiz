@@ -66,6 +66,8 @@ getSentimentEmoji = function (s) {
 }
 
 getInfo = function (v) {
+  renderInfo(window.tagIt(v));
+  return;
   fetch(
     'https://showcase-serverless.herokuapp.com/pos-tagger',
     {
