@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "wink-eng-lite-web-model": "file:../wink-eng-lite-web-model-1.0.0.tgz",
+    "wink-eng-lite-web-model": "^1.0.0",
     "wink-nlp": "^1.1.0"
   }
 }
